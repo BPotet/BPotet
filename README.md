@@ -6,6 +6,7 @@ I am  a young developper specialized in software development and web development
 
 - :computer: Software developper specialized in web development but open to any development and any programming languages
 - :smile: Cheerful and open mind. I like to learn from others and give advices to others
+- 🖥️ Learning on the new languages such as Rust, Go, Scala ...
 
 ### 💬 Ask me about 
 
