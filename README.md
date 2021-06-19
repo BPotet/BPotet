@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 ## My personal projects
 
-[Costory](https://costory.ch/) is a website which the users are sharing their stories - [Gitlab repository](https://gitlab.com/corona-digital/costory)
-EasyToolz is a website which the users borrow tools from other users - [Github repository](https://github.com/Double-i/HEIGVD-PRO-B-05)
+- [Costory](https://costory.ch/) is a website which the users are sharing their stories - [Gitlab repository](https://gitlab.com/corona-digital/costory)
+- EasyToolz is a website which the users borrow tools from other users - [Github repository](https://github.com/Double-i/HEIGVD-PRO-B-05)
