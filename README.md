@@ -1,6 +1,6 @@
 # Hi, I'm Bastien 👋
 
-Software engineer based in Fribourg, Switzerland, with ~5 years building backend
+Software engineer with ~5 years building backend
 systems. Currently working on EV charging and energy platforms.
 
 **What I care about:** shipping useful products, clean APIs, and understanding
